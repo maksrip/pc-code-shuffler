@@ -2,7 +2,7 @@ from tkinter.filedialog import asksaveasfile, askopenfile, askdirectory, askopen
 from tkinter import *
 import os
 import time
-from logicNLP import *
+from logicNLP_words_only import *
 from UI_constants import *
 from pathlib import Path
 import threading
